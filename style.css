@@ -1,0 +1,38 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+.head1{
+    width: 200px;
+    text-align: center;
+    margin-top: 70px;
+}
+.head2{
+    width: 200px;
+    text-align: center;
+}
+.head3{
+    width: 200px;
+    text-align: center;
+}
+.head4{
+    width: 200px;
+    text-align: center;
+}
+.head5{
+    width: 200px;
+    text-align: center;
+}
+
